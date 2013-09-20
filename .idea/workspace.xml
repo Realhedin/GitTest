@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccee613-7c73-4ecf-8357-61d01d07dc29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java" afterPath="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java" />
     </list>
     <ignored path="TestGitJUnitLoggging.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379596776826" ignored="false" />
-    <file path="$USER_HOME$/JavaSchool8/Presentations/Lection2(TestFrameworks,Exceptions,Logging)/LogProjectSample/LogProjectSample/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379672428041" ignored="false" />
+    <file path="/Dummy.txt" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379678016611" ignored="false" />
+    <file path="$USER_HOME$/JavaSchool8/Presentations/Lection2(TestFrameworks,Exceptions,Logging)/LogProjectSample/LogProjectSample/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379681023602" ignored="false" />
     <file path="/pom.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379584577594" ignored="false" />
     <file path="/Calculator.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379595499164" ignored="false" />
     <file path="/*.regexp" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379595448223" ignored="false" />
     <file path="/CalculatorTest.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379596110320" ignored="false" />
     <file path="/CalculatorNegativeTest.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379597508586" ignored="false" />
-    <file path="/CalculatorSuite.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379597779820" ignored="false" />
+    <file path="/CalculatorSuite.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379681022261" ignored="false" />
     <file path="/ParameterizedTest.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379672426282" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,20 +105,17 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="64" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#CalculatorTest#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParameterizedTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ParameterizedTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="51" selection-start="972" selection-end="972" vertical-scroll-proportion="0.49865952">
+            <state line="21" column="61" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#ParameterizedTest#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -130,19 +125,17 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="69" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorSuite.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CalculatorSuite.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="48" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+            <state line="19" column="68" selection-start="446" selection-end="446" vertical-scroll-proportion="0.53475934">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#CalculatorSuite#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -169,9 +162,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/TestGitJUnitLoggging/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java" />
       </list>
     </option>
   </component>
@@ -244,6 +237,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,25 +314,24 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.ParameterizedTest.sum">
+  <component name="RunManager" selected="JUnit.ParameterizedTest">
     <configuration default="false" name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -423,6 +416,34 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="ParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestGitJUnitLoggging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestGitJUnitLoggging" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="TestGitJUnitLoggging" />
+      <option name="MAIN_CLASS_NAME" value="TestGitJUnitLoggging.ParameterizedTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -458,6 +479,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -484,19 +518,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -535,16 +556,18 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSuite" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.ParameterizedTest.sum" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ParameterizedTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ParameterizedTest.sum" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorSuite" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ParameterizedTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ParameterizedTest.sum" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorSuite" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -562,7 +585,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="1272" y="-8" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -582,8 +605,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.672" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.672" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6736" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -651,6 +674,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="69" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="48" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;class#CalculatorSuite#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="20" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
@@ -675,10 +714,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="43" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#CalculatorTest#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -727,36 +763,31 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="69" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="48" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="64" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#CalculatorTest#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="51" selection-start="972" selection-end="972" vertical-scroll-proportion="0.49865952">
+        <state line="21" column="61" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#ParameterizedTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="68" selection-start="446" selection-end="446" vertical-scroll-proportion="0.53475934">
+          <folding>
+            <element signature="docComment;class#CalculatorSuite#0" expanded="false" />
           </folding>
         </state>
       </provider>

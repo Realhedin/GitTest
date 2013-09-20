@@ -16,7 +16,8 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses(
         value = {
                 CalculatorTest.class,
-                CalculatorNegativeTest.class
+                CalculatorNegativeTest.class,
+                ParameterizedTest.class
         }
 )
 
