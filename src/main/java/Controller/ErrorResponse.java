@@ -1,4 +1,4 @@
-package Controller;
+package controller;
 
 /**
  * Created with IntelliJ IDEA.
@@ -24,5 +24,10 @@ public class ErrorResponse implements Response {
 
     public Exception getOriginalException() {
         return this.originalException;
+    }
+
+    @Override
+    public String getName() {
+        return null;  //To change body of implemented methods use File | Settings | File Templates.
     }
 }

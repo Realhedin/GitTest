@@ -1,6 +1,5 @@
-package Controller;
+package controller;
 
-import com.sun.javaws.exceptions.ErrorCodeResponseException;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -16,7 +15,7 @@ public class DefaultController implements Controller {
 
     private Map<String,RequestHandler> requestHandlers = new HashMap<String, RequestHandler>();
 
-    public RequestHandler getHandler(Request request) {
+    protected RequestHandler getHandler(Request request) {
         if (!this.requestHandlers.containsKey(request.getName())) {
             String message = "Cannot find handler for request name " + "[" +
                     request.getName() + "]";
