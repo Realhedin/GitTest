@@ -30,19 +30,19 @@ public class HamcrestTest {
         values.add("z");
     }
 
-    @Test
-    public void testWithoutHamcrest() {
-        Assert.assertTrue(values.contains("one")
-                || values.contains("two")
-                || values.contains("three"));
-    }
-
-    @Test
-    public void testWithHamcrest() {
-        Assert.assertThat(values, JUnitMatchers.hasItem(CoreMatchers.anyOf(
-                CoreMatchers.equalTo("one"),
-                CoreMatchers.equalTo("two"),
-                CoreMatchers.equalTo("three")
-        )));
-    }
+//    @Test
+//    public void testWithoutHamcrest() {
+//        Assert.assertTrue(values.contains("one")
+//                || values.contains("two")
+//                || values.contains("three"));
+//    }
+//
+//    @Test
+//    public void testWithHamcrest() {
+//        Assert.assertThat(values, JUnitMatchers.hasItem(CoreMatchers.anyOf(
+//                CoreMatchers.equalTo("one"),
+//                CoreMatchers.equalTo("two"),
+//                CoreMatchers.equalTo("three")
+//        )));
+//    }
 }
