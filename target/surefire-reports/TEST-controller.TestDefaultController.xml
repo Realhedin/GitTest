@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.083" errors="0" skipped="1" tests="7" name="controller.TestDefaultController">
+<testsuite failures="0" time="0.084" errors="0" skipped="1" tests="7" name="controller.TestDefaultController">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_17\jre\bin"/>
@@ -66,13 +66,13 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.014" classname="controller.TestDefaultController" name="testProcessRequestAnswersErrorResponse"/>
-  <testcase time="0.016" classname="controller.TestDefaultController" name="testProcessMultipleRequestsTimeout">
+  <testcase time="0.015" classname="controller.TestDefaultController" name="testProcessRequestAnswersErrorResponse"/>
+  <testcase time="0.017" classname="controller.TestDefaultController" name="testProcessMultipleRequestsTimeout">
     <skipped/>
   </testcase>
   <testcase time="0" classname="controller.TestDefaultController" name="testAddHandler"/>
   <testcase time="0" classname="controller.TestDefaultController" name="testProcessRequest"/>
   <testcase time="0" classname="controller.TestDefaultController" name="testProcessRequest2"/>
-  <testcase time="0.001" classname="controller.TestDefaultController" name="testGetHandlerNotDefined"/>
-  <testcase time="0" classname="controller.TestDefaultController" name="testAddRequestDuplicateName"/>
+  <testcase time="0" classname="controller.TestDefaultController" name="testGetHandlerNotDefined"/>
+  <testcase time="0.001" classname="controller.TestDefaultController" name="testAddRequestDuplicateName"/>
 </testsuite>

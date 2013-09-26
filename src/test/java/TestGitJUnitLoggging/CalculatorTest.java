@@ -112,7 +112,7 @@ public class CalculatorTest {
         calc.division(6,null);
     }
 
-    @Test(expected = NullPointerException.class)
+    @Test
     public void divEquals0Test() {
         calc.division(6,0);
     }
