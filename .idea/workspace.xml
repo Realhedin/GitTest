@@ -2,110 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccee613-7c73-4ecf-8357-61d01d07dc29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tdd/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/tdd/TestAccount.java" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\TestGitJUnitLoggging-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\DefaultController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\ErrorResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\Request.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\RequestHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\Controller\Response.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\TestGitJUnitLoggging\App.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\classes\TestGitJUnitLoggging\Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\cobertura\cobertura.ser" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\TestGitJUnitLoggging\App.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\TestGitJUnitLoggging\Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\cobertura.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\DefaultController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\ErrorResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\Request.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\RequestHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\generated-classes\cobertura\controller\Response.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\maven-archiver\pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\TestGitJUnitLoggging.App.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\TestGitJUnitLoggging.Calculator.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.Controller.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.DefaultController.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.ErrorResponse.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.Request.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.RequestHandler.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\controller.Response.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\css\help.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\css\sortabletable.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\css\source-viewer.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\css\tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-packages.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-sourcefiles-TestGitJUnitLoggging.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-sourcefiles-controller.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-sourcefiles.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-summary-TestGitJUnitLoggging.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-summary-controller.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\frame-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\help.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\images\blank.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\images\downsimple.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\images\upsimple.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\js\customsorttypes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\js\popup.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\js\sortabletable.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\cobertura\js\stringbuilder.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\css\maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\css\maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\css\print.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\css\site.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\close.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\external.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\logos\build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\logos\build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\logos\maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\images\newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\integration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\license.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\project-reports.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\site\team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TEST-TestGitJUnitLoggging.AppTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TEST-TestGitJUnitLoggging.CalculatorNegativeTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TEST-TestGitJUnitLoggging.CalculatorTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TEST-TestGitJUnitLoggging.ParameterizedTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TEST-controller.TestDefaultController.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TestGitJUnitLoggging.AppTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TestGitJUnitLoggging.CalculatorNegativeTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TestGitJUnitLoggging.CalculatorTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\TestGitJUnitLoggging.ParameterizedTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\surefire-reports\controller.TestDefaultController.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\TestGitJUnitLoggging\AppTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\TestGitJUnitLoggging\CalculatorNegativeTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\TestGitJUnitLoggging\CalculatorSuite.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\TestGitJUnitLoggging\CalculatorTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\TestGitJUnitLoggging\ParameterizedTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\HamcrestTest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController$SampleExceptionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController$SampleHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController$SampleRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController$SampleResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\dkorolev\Java\TestGitJUnitLoggging\target\test-classes\controller\TestDefaultController.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/JettySample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/StubHttpURLConnection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestGetContentOkHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClientSkeleton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/WebClient.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestGitJUnitLoggging.iml" afterPath="$PROJECT_DIR$/TestGitJUnitLoggging.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -114,7 +20,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381738886177" ignored="false" />
     <file path="$USER_HOME$/JavaSchool8/Presentations/Lection2(TestFrameworks,Exceptions,Logging)/LogProjectSample/LogProjectSample/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380877927992" ignored="false" />
-    <file path="/pom.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380189959433" ignored="false" />
+    <file path="/pom.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381760959724" ignored="false" />
     <file path="/Calculator.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379595499164" ignored="false" />
     <file path="/*.regexp" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379595448223" ignored="false" />
     <file path="/CalculatorTest.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380199144123" ignored="false" />
@@ -125,7 +31,7 @@
     <file path="/RequestHandler.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379932664235" ignored="false" />
     <file path="/Controller.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379932721195" ignored="false" />
     <file path="/DefaultController.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380026612775" ignored="false" />
-    <file path="/fragment.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381741889036" ignored="false" />
+    <file path="/fragment.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381762358043" ignored="false" />
     <file path="/ErrorResponse.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379934640250" ignored="false" />
     <file path="/TestDefaultController.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380015836830" ignored="false" />
     <file path="/Response.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1379950104846" ignored="false" />
@@ -150,9 +56,16 @@
     <file path="/List.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380816032091" ignored="false" />
     <file path="$USER_HOME$/SCJP6/chapter1/src/structures/BinHeap.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380877925915" ignored="false" />
     <file path="/BinHeap.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380877870381" ignored="false" />
-    <file path="$USER_HOME$/SCJP6/chapter1/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381742302831" ignored="false" />
+    <file path="$USER_HOME$/SCJP6/chapter1/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381839024228" ignored="false" />
     <file path="/TestAccount.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381742236780" ignored="false" />
     <file path="/Account.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381741953466" ignored="false" />
+    <file path="/WebClient.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381758941238" ignored="false" />
+    <file path="/JettySample.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381761171941" ignored="false" />
+    <file path="/TestWebClientSkeleton.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381763399074" ignored="false" />
+    <file path="/TestGetContentOkHandler.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381827000938" ignored="false" />
+    <file path="/TestWebClient.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381834173993" ignored="false" />
+    <file path="/TestWebClient1.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381838381413" ignored="false" />
+    <file path="/StubHttpURLConnection.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381839021841" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,55 +125,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Controller.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="68" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controller/DefaultController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="13" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestDefaultController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/controller/TestDefaultController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="28" selection-start="3451" selection-end="3451" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HamcrestTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/controller/HamcrestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="64" selection-start="962" selection-end="962" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CalculatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="69" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="86" column="56" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="docComment;class#CalculatorTest#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestAccount.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TestWebClientSkeleton.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClientSkeleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="68" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGetContentOkHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestGetContentOkHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="11" selection-start="560" selection-end="1036" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="docComment;class#TestGetContentOkHandler#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWebClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="51" selection-start="2921" selection-end="2921" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="docComment;class#TestWebClient#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWebClient1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="56" selection-start="854" selection-end="854" vertical-scroll-proportion="0.43342775">
+              <folding>
+                <element signature="docComment;class#TestWebClient1#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StubHttpURLConnection.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/StubHttpURLConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="78" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="docComment;class#StubHttpURLConnection#0" expanded="false" />
+                <element signature="method#disconnect#0;class#StubHttpURLConnection#0" expanded="false" />
+                <element signature="method#usingProxy#0;class#StubHttpURLConnection#0" expanded="false" />
+                <element signature="method#connect#0;class#StubHttpURLConnection#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JettySample.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/JettySample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="75" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#JettySample#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAccount.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tdd/TestAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="57" selection-start="449" selection-end="449" vertical-scroll-proportion="0.67105263">
+            <state line="22" column="41" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="docComment;class#TestAccount#0" expanded="false" />
               </folding>
@@ -268,38 +217,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tdd/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParameterizedTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="59" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Calculator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestGitJUnitLoggging/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="78" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
+            <state line="31" column="85" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ErrorResponse.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/controller/ErrorResponse.java">
+      <file leaf-file-name="WebClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/stub/WebClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="38" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="24" column="106" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#WebClient#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -322,22 +256,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorSuite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Controller/Request.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Controller/RequestHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Controller/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Controller/Response.java" />
         <option value="$PROJECT_DIR$/src/main/java/Controller/ErrorResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/Controller/DefaultController.java" />
         <option value="$PROJECT_DIR$/src/main/java/controller/DefaultController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/controller/TestDefaultController.java" />
         <option value="$PROJECT_DIR$/src/test/java/controller/HamcrestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tdd/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/tdd/TestAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/WebClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/JettySample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/TestWebClientSkeleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/TestGetContentOkHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/TestWebClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/stub/StubHttpURLConnection.java" />
       </list>
     </option>
   </component>
@@ -451,36 +385,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestGitJUnitLoggging" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestGitJUnitLoggging" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestGitJUnitLoggging" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -556,6 +460,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="stub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestGitJUnitLoggging" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestGitJUnitLoggging" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -601,76 +531,42 @@
       <recent name="Controller" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HamcrestTest">
-    <configuration default="false" name="ParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.TestWebClient1.testGetContentOk">
+    <configuration default="false" name="JettySample" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="TestGitJUnitLoggging.*" />
+          <option name="PATTERN" value="stub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="TestGitJUnitLoggging" />
+      <option name="MAIN_CLASS_NAME" value="stub.JettySample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="TestGitJUnitLoggging" />
-      <option name="MAIN_CLASS_NAME" value="TestGitJUnitLoggging.ParameterizedTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="TestGitJUnitLoggging" />
       <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="TestDefaultController" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestWebClient.testGetContentOk" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="controller.*" />
+          <option name="PATTERN" value="stub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestGitJUnitLoggging" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.TestDefaultController" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TestDefaultController.testProcessRequest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestGitJUnitLoggging" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.TestDefaultController" />
-      <option name="METHOD_NAME" value="testProcessRequest" />
+      <option name="PACKAGE_NAME" value="stub" />
+      <option name="MAIN_CLASS_NAME" value="stub.TestWebClient" />
+      <option name="METHOD_NAME" value="testGetContentOk" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -686,19 +582,47 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="HamcrestTest.testWithoutHamcrest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestWebClient" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="controller.*" />
+          <option name="PATTERN" value="stub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestGitJUnitLoggging" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.HamcrestTest" />
-      <option name="METHOD_NAME" value="testWithoutHamcrest" />
+      <option name="PACKAGE_NAME" value="stub" />
+      <option name="MAIN_CLASS_NAME" value="stub.TestWebClient" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestWebClient.testGetContentNotAvailable" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestGitJUnitLoggging" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="stub" />
+      <option name="MAIN_CLASS_NAME" value="stub.TestWebClient" />
+      <option name="METHOD_NAME" value="testGetContentNotAvailable" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -714,20 +638,20 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="HamcrestTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestWebClient1.testGetContentOk" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="controller.*" />
+          <option name="PATTERN" value="stub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestGitJUnitLoggging" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.HamcrestTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="stub" />
+      <option name="MAIN_CLASS_NAME" value="stub.TestWebClient1" />
+      <option name="METHOD_NAME" value="testGetContentOk" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -855,19 +779,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ParameterizedTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestDefaultController" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testProcessRequest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HamcrestTest.testWithoutHamcrest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.HamcrestTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.JettySample" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestWebClient.testGetContentOk" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestWebClient" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestWebClient.testGetContentNotAvailable" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestWebClient1.testGetContentOk" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HamcrestTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestDefaultController" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HamcrestTest.testWithoutHamcrest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testProcessRequest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ParameterizedTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestWebClient1.testGetContentOk" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestWebClient" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestWebClient.testGetContentNotAvailable" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestWebClient.testGetContentOk" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JettySample" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -885,7 +809,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1382" height="784" extended-state="0" />
+    <frame x="1272" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -899,17 +823,17 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23181818" sideWeight="0.68102074" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.68102074" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31897926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.64" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -974,53 +898,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorNegativeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="69" selection-start="698" selection-end="698" vertical-scroll-proportion="0.6764706">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/RequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="55" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="68" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/DefaultController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/ErrorResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestGitJUnitLoggging/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="71" selection-end="71" vertical-scroll-proportion="0.28651685">
@@ -1028,23 +905,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestGitJUnitLoggging/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="78" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/ParameterizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="59" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="74" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.53296703">
           <folding />
         </state>
       </provider>
@@ -1063,13 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="69" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tdd/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="30" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
@@ -1079,9 +935,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tdd/TestAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="57" selection-start="449" selection-end="449" vertical-scroll-proportion="0.67105263">
+        <state line="22" column="41" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="docComment;class#TestAccount#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestGitJUnitLoggging/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="85" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="25" selection-start="2162" selection-end="2162" vertical-scroll-proportion="0.7858942">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/JettySample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="75" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#JettySample#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClientSkeleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="68" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestGetContentOkHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="11" selection-start="560" selection-end="1036" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;class#TestGetContentOkHandler#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/WebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="106" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#WebClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestGitJUnitLoggging/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="56" selection-start="1950" selection-end="1950" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;class#CalculatorTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="51" selection-start="2921" selection-end="2921" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;class#TestWebClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/StubHttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="78" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;class#StubHttpURLConnection#0" expanded="false" />
+            <element signature="method#disconnect#0;class#StubHttpURLConnection#0" expanded="false" />
+            <element signature="method#usingProxy#0;class#StubHttpURLConnection#0" expanded="false" />
+            <element signature="method#connect#0;class#StubHttpURLConnection#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="56" selection-start="854" selection-end="854" vertical-scroll-proportion="0.43342775">
+          <folding>
+            <element signature="docComment;class#TestWebClient1#0" expanded="false" />
           </folding>
         </state>
       </provider>

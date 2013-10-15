@@ -70,6 +70,9 @@
     <orderEntry type="library" name="Maven: org.apache.maven.doxia:doxia-module-xdoc:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.doxia:doxia-module-xhtml:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-invoker:2.0.11" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
   </component>
 </module>
 
