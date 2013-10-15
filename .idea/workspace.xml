@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccee613-7c73-4ecf-8357-61d01d07dc29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/JettySample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/StubHttpURLConnection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestGetContentOkHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/TestWebClientSkeleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/stub/WebClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestGitJUnitLoggging.iml" afterPath="$PROJECT_DIR$/TestGitJUnitLoggging.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestGitJUnitLoggging.iws" />
@@ -56,7 +44,7 @@
     <file path="/List.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380816032091" ignored="false" />
     <file path="$USER_HOME$/SCJP6/chapter1/src/structures/BinHeap.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380877925915" ignored="false" />
     <file path="/BinHeap.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1380877870381" ignored="false" />
-    <file path="$USER_HOME$/SCJP6/chapter1/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381839024228" ignored="false" />
+    <file path="$USER_HOME$/SCJP6/chapter1/.idea/workspace.xml" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381844746213" ignored="false" />
     <file path="/TestAccount.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381742236780" ignored="false" />
     <file path="/Account.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381741953466" ignored="false" />
     <file path="/WebClient.java" changelist="4ccee613-7c73-4ecf-8357-61d01d07dc29" time="1381758941238" ignored="false" />
@@ -172,7 +160,7 @@
       <file leaf-file-name="TestWebClient1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="56" selection-start="854" selection-end="854" vertical-scroll-proportion="0.43342775">
+            <state line="36" column="74" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.14156626">
               <folding>
                 <element signature="docComment;class#TestWebClient1#0" expanded="false" />
               </folding>
@@ -810,7 +798,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -826,11 +814,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23181818" sideWeight="0.68102074" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23181818" sideWeight="0.64" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.64" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1026,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/stub/TestWebClient1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="56" selection-start="854" selection-end="854" vertical-scroll-proportion="0.43342775">
+        <state line="36" column="74" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.14156626">
           <folding>
             <element signature="docComment;class#TestWebClient1#0" expanded="false" />
           </folding>
